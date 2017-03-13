@@ -8,3 +8,4 @@ i love this world
 hahahahhaha
 Git tracks changes.
 Git nihao i'm vince
+this is a test about git!
